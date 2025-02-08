@@ -1,0 +1,15 @@
+client_generic/Client/electricsheep /usr/bin/
+client_generic/electricsheep-saver /usr/bin/
+client_generic/electricsheep-saver-gnome /usr/bin/
+client_generic/MSVC/SettingsGUI/electricsheep-preferences /usr/bin/
+client_generic/Runtime/logo.png /usr/share/icons/
+client_generic/Runtime/Scripts /usr/share/electricsheep/
+client_generic/menu-entries/ElectricSheep.desktop.kde /usr/share/applications/ElectricSheep.desktop
+client_generic/menu-entries/electricsheep.xpm /usr/share/pixmaps/
+client_generic/Runtime/electricsheep-attr.png /usr/share/electricsheep/
+client_generic/Runtime/electricsheep-frown.png /usr/share/electricsheep/
+client_generic/Runtime/electricsheep-smile.png /usr/share/electricsheep/
+client_generic/Runtime/TrebuchetMS-20.glf /usr/share/electricsheep/
+client_generic/Runtime/TrebuchetMS-24.glf /usr/share/electricsheep/
+client_generic/menu-entries/electricsheep-saver.desktop /usr/share/applications/screensavers/electricsheep.desktop
+

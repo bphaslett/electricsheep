@@ -1,0 +1,11 @@
+electricsheep (3.0.2-1ubuntu1) plucky; urgency=medium
+
+  * Fixed a bad prefix in SettingsGUI 
+
+ -- Brian Haslett <brianhaslett@protonmail.com>  Mon, 03 Feb 2025 16:32:22 -0600
+
+electricsheep (3.0.2-1) plucky; urgency=low
+
+  * Initial release.
+
+ -- Brian Haslett <brianhaslett@protonmail.com>  Mon, 03 Feb 2025 11:01:39 -0600

@@ -1,0 +1,27 @@
+Source: electricsheep
+Section: x11
+Priority: optional
+Maintainer: Brian Haslett <brianhaslett@protonmail.com>
+Build-Depends:
+ debhelper-compat (= 13),
+ libflam3-dev, subversion, autoconf, libtool, libgtk2.0-dev, libgl1-mesa-dev,
+ libavcodec-dev, libavformat-dev, libswscale-dev, liblua5.1-0-dev,
+ libcurl4-openssl-dev, libxml2-dev, libjpeg8-dev, libgtop2-dev, libboost-dev,
+ libboost-filesystem-dev, libboost-thread-dev, libtinyxml-dev, freeglut3-dev,
+ libwxgtk3.2-dev, glee-dev, flam3-utils, libgl-dev
+Standards-Version: 4.7.0
+Homepage: https://github.com/scottdraves/electricsheep
+Rules-Requires-Root: no
+#Vcs-Git: https://salsa.debian.org/debian/electricsheep.git
+#Vcs-Browser: https://salsa.debian.org/debian/electricsheep
+
+Package: electricsheep
+Architecture: any
+Multi-Arch: foreign
+Depends:
+ ${misc:Depends},
+ ${shlibs:Depends},
+Description: infinite evolving crowdsourced artwork 
+ The Electric Sheep is a cyborg mind. It harnesses the collective intelligence
+ of 450,000 computers and people to create abstract art with mathematics and
+ Darwinian evolution. The result is seamless, organic, and infinite. 
